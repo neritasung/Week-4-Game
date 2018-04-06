@@ -1,0 +1,62 @@
+h1{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin: 30px;
+    text-align: center;
+}
+.container1{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin: 30px 30px 40px 30px;   
+}
+#start{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 4px;   
+}
+.container2{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    height: 120px;
+    width: 220px;
+    margin-left: 30px;  
+}
+#number{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+.container3{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    width: 500px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.container4{
+    clear: both;
+    overflow: auto;
+    margin-left: 30px;
+}
+img{
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.container5{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left: 30px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+#totalScore{
+    font-size: 24px
+}
+
